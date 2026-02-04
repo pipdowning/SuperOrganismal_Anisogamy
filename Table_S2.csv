@@ -1,0 +1,34 @@
+A.,,Inverse Gamma prior,,,
+Fixed terms,Parameter,Estimate,Lwr CI,Upr CI,Phylogenetic H2
+log colony size (N = 154 species),intercept,-0.73,-1.92,0.60,0.89
+,slope,0.29,0.21,0.38,
+caste number (N = 187 species),intercept,0.75,-0.24,1.80,0.85
+,slope,1.43,0.67,1.91,
+log queen number (N = 51 species),intercept,1.47,0.08,2.64,0.98
+,slope,0.02,-0.21,0.37,
+log colony size x log queen number (N = 46 species),intercept,0.04,-1.67,1.52,0.97
+,colony size slope,0.22,0.05,0.45,
+,queen number slope,0.23,-0.58,0.87,
+,interaction,-0.02,-0.10,0.08,
+caste number x log queen number (N = 46 species),intercept,1.33,0.34,2.38,0.97
+,caste number slope,1.03,0.01,1.95,
+,queen number slope,-0.07,-0.38,0.37,
+,interaction,0.29,-0.43,0.75,
+,,,,,
+,,,,,
+B.,,Inverse Gamma prior,,,
+Fixed terms,Parameter,Estimate,Lwr CI,Upr CI,Phylogenetic h2
+log colony size (N = 154 species),intercept,0.00,-0.59,0.82,0.77
+,slope,0.03,-0.01,0.10,
+caste number (N = 187 species),intercept,0.37,-0.28,0.91,0.77
+,slope,0.44,0.01,0.76,
+log queen number (N = 51 species),intercept,0.27,-0.38,0.97,0.86
+,slope,0.06,-0.14,0.24,
+log colony size x log queen number (N = 46 species),intercept,0.25,-0.66,1.44,0.81
+,colony size slope,-0.01,-0.18,0.09,
+,queen number slope,0.32,-0.33,0.87,
+,interaction,-0.03,-0.10,0.05,
+caste number x log queen number (N = 46 species),intercept,0.56,-0.11,1.14,0.86
+,caste number slope,-0.18,-0.83,0.51,
+,queen number slope,-0.21,-0.55,0.03,
+,interaction,0.69,0.28,1.03,
